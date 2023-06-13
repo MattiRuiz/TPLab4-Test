@@ -127,6 +127,8 @@ namespace TPLab4.Tests
 
             // Assert
             Assert.IsType<NoContentResult>(result);
+
+            controller.Delete(movie.Id);
         }
 
         [Fact]
