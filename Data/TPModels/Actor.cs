@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace TPLab4..DataTPModels;
+namespace TPLab4.Data.TPModels;
 
 public partial class Actor
 {
